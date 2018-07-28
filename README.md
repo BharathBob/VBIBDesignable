@@ -34,6 +34,6 @@ add corner radius of your view
 
 Hope it helps.😊
 
-<img width="936" alt="screen shot 2018-07-28 at 5 44 25 pm" src="https://user-images.githubusercontent.com/1663153/43356410-ef877cc0-928d-11e8-8030-377eb5e0d13c.png">
+<img width="1155" alt="screen shot 2018-07-28 at 5 48 10 pm" src="https://user-images.githubusercontent.com/1663153/43356448-7466cb76-928e-11e8-9215-65a631b1f8cb.png">
 
 
