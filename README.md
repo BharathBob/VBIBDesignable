@@ -41,7 +41,7 @@ Hope it helps.😊
 
 
 ## Requirements
-iOS 8.0+,macOS 10.10+,ARC
+iOS 8.0+, MacOS 10.10+, ARC
 
 * Swift 4.1: Xcode 9.3; version >= 3.2.3
 * Swift 4.0: Xcode 9.0; version >= 3.0.5
